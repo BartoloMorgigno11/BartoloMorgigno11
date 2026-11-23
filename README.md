@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.svg" alt="Decorative BM research-engineering identity graphic with a connected-systems motif" width="100%" />
+</p>
+
 <div align="center">
 
 # Bartolo Morgigno
@@ -6,11 +10,11 @@
 
 *From models to reliable, testable systems.*
 
-[Featured work](#featured-work) · [Publications](#publications) · [GitHub](https://github.com/BartoloMorgigno11) · [LinkedIn](https://www.linkedin.com/in/bartolo-morgigno/)
+[Featured work](#featured-work) · [Research](#research-and-applied-engineering) · [Publications](#publications) · [LinkedIn](https://www.linkedin.com/in/bartolo-morgigno/)
 
 </div>
 
-I build reproducible machine-learning systems at the intersection of computer vision, generative AI, natural-language processing, and software engineering.
+I design and develop intelligent software systems, combining applied machine learning, software engineering, and academic research. My work spans computer vision, generative AI, assistive technologies, and data-driven applications, with a focus on reproducibility, explicit limits, and reliable evaluation.
 
 **Education.** BSc in Computer Engineering and Automation, *110/110 cum laude*, and current MSc student in Computer Engineering, Data Science & AI curriculum — both at Politecnico di Bari.
 
@@ -71,9 +75,10 @@ Selected scientific publications:
 ## Research and engineering interests
 
 - Reproducible deep-learning experiments, model evaluation, and research software
-- Computer vision, object detection, and medical-image analysis
+- Computer vision, real-time perception, and assistive AI systems
 - Generative models and text-conditioned diffusion
 - ML systems, APIs, testing, and developer-facing documentation
+- Data-driven decision support and AI for real-world applications
 
 ## Recognition
 
@@ -82,4 +87,4 @@ Selected scientific publications:
 
 ---
 
-I value transparent evaluation, explicit limits, and project documentation that lets another developer understand and run the work. Some research work is intentionally not represented here when source code, data, or results are not public.
+I value transparent evaluation, explicit limits, and documentation that helps other developers understand, reproduce, and critically assess the work. Some research activities are intentionally represented only at a high level when source code, data, or results are not public.
