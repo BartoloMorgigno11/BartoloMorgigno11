@@ -48,6 +48,8 @@ Winning sentiment-analysis solution based on a reproducible TF-IDF and class-bal
 
 A compiler-oriented project with lexical and syntactic analysis, semantic checks, Python code generation, tests, and a small Flask interface.
 
+<a href="https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/C-to-JavaScript-Transpiler/main/docs/images/web-transpiler-demo.png" alt="C-to-JavaScript Transpiler local interface with generated JavaScript and AST" width="400" /></a>
+
 <details>
 <summary><strong>Additional public work</strong></summary>
 
