@@ -26,7 +26,7 @@ A compact diffusion project with four authenticated inference checkpoints, froze
 
 ### [Olive Ripeness Detection](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8)
 
-<a href="https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/main/docs/images/analysis-results.png" alt="Olive ripeness-detection analysis results" width="560" /></a>
+<a href="https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/main/docs/images/analysis-results.png" alt="Olive ripeness-detection analysis results" width="400" /></a>
 
 **Computer vision · YOLOv8 · Flask · React**
 
