@@ -18,7 +18,7 @@ I build reproducible machine-learning systems at the intersection of computer vi
 
 ### [Tiny Avatar Diffusion](https://github.com/BartoloMorgigno11/tiny-avatar-diffusion)
 
-<a href="https://github.com/BartoloMorgigno11/tiny-avatar-diffusion"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/tiny-avatar-diffusion/master/docs/report/figures/final_four_model_unconditional_gallery.png" alt="Samples from the four Tiny Avatar Diffusion inference models" width="560" /></a>
+<a href="https://github.com/BartoloMorgigno11/tiny-avatar-diffusion"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/tiny-avatar-diffusion/master/docs/report/figures/final_four_model_unconditional_gallery.png" alt="Samples from the four Tiny Avatar Diffusion inference models" width="400" /></a>
 
 **Generative AI · DDPM · PyTorch · Streamlit**
 
@@ -26,7 +26,7 @@ A compact diffusion project with four authenticated inference checkpoints, froze
 
 ### [Olive Ripeness Detection](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8)
 
-<a href="https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/main/docs/images/analysis-results.png" alt="Olive ripeness-detection analysis results" width="560" /></a>
+<a href="https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/main/docs/images/analysis-results.png" alt="Olive ripeness-detection analysis results" width="400" /></a>
 
 **Computer vision · YOLOv8 · Flask · React**
 
