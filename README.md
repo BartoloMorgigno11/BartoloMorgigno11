@@ -30,11 +30,11 @@ A compact diffusion project with four authenticated inference checkpoints, froze
 
 ### [Olive Ripeness Detection](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8)
 
-<a href="https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/main/docs/images/analysis-results.png" alt="Olive ripeness-detection analysis results" width="400" /></a>
+<a href="https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/main/docs/images/upload-screen.png" alt="Olive Ripeness Detection interface for uploading images for analysis" width="400" /></a>
 
 **Computer vision · YOLOv8 · Flask · React**
 
-An end-to-end olive-fruit detection prototype: a fine-tuned YOLOv8 detector, a Flask API, a React interface, and documented training, setup, and limitations.
+A full-stack olive-fruit detection prototype built around a fine-tuned YOLOv8 detector, Flask API, and React interface. Real execution requires the separately provided model weights; geometric estimates are experimental image-space proxies, not calibrated physical measurements.
 
 ### [NLP Sentiment Analysis](https://github.com/BartoloMorgigno11/1st-Place-AI-Hackathon---NLP-Sentiment-Analysis)
 
@@ -46,7 +46,7 @@ Winning sentiment-analysis solution based on a reproducible TF-IDF and class-bal
 
 **Compilers · Flex/Bison · C · Python · Flask**
 
-A compiler-oriented project with lexical and syntactic analysis, semantic checks, Python code generation, tests, and a small Flask interface.
+An experimental C-subset transpiler with a Flex/Bison front end, semantic checks, Python code generation, automated regression tests, and Ubuntu CI verification. It intentionally supports only the documented subset of C, not ISO C in general.
 
 <a href="https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/C-to-JavaScript-Transpiler/main/docs/images/web-transpiler-demo.png" alt="C-to-JavaScript Transpiler local interface with generated JavaScript and AST" width="400" /></a>
 
