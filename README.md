@@ -10,13 +10,17 @@
 
 *From models to reliable, testable systems.*
 
-[Featured work](#featured-work) · [Research](#research-and-applied-engineering) · [Publications](#publications) · [LinkedIn](https://www.linkedin.com/in/bartolo-morgigno/)
+[Featured work](#featured-work) · [Research](#research-and-applied-engineering) · [Publications](#publications) · [Academic profiles](#academic-profiles) · [LinkedIn](https://www.linkedin.com/in/bartolo-morgigno/)
 
 </div>
 
 I design and develop intelligent software systems, combining applied machine learning, software engineering, and academic research. My work spans computer vision, generative AI, assistive technologies, and data-driven applications, with a focus on reproducibility, explicit limits, and reliable evaluation.
 
 **Education.** BSc in Computer Engineering and Automation, *110/110 cum laude*, and current MSc student in Computer Engineering, Data Science & AI curriculum — both at Politecnico di Bari.
+
+## Academic profiles
+
+[ORCID (0009-0004-2675-5388)](https://orcid.org/0009-0004-2675-5388) · [Scopus Author ID (60962910900)](https://www.scopus.com/authid/detail.uri?authorId=60962910900) · [Google Scholar](https://scholar.google.com/citations?user=8kHpqYAAAAAJ)
 
 ## Featured work
 
