@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner.jpg" alt="Curious by nature, engineer by choice. Illustrated workspace in warm cream, green and brown." width="100%" />
+  <img src="assets/github-banner.jpg" alt="Warm, plant-filled developer workspace with a code editor, wooden desk and soft lighting." width="100%" />
 </p>
 
 <div align="center">
