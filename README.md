@@ -16,13 +16,15 @@
 
 I am a Computer Engineering graduate from **Politecnico di Bari** (110/110 cum laude, 23 October 2024) and an MSc student in **Computer Engineering — Artificial Intelligence and Data Science curriculum**.
 
-My public work connects software engineering and applied AI: a C-to-JavaScript transpiler, a computer-vision web application, diffusion models implemented from scratch, and reproducible machine-learning experiments. Alongside these projects, I have held research appointments at Politecnico di Bari and co-authored scientific publications.
+My interests lie at the intersection of software engineering, applied AI and research software. My portfolio demonstrates compiler construction, full-stack computer vision, diffusion models implemented from scratch, and reproducible machine-learning workflows. I have also held research appointments at Politecnico di Bari and co-authored scientific publications.
 
 **Technologies demonstrated in public repositories:** Python, C, JavaScript, PyTorch, Flask, React, Flex/Bison, MATLAB, automated tests and GitHub Actions.
 
 ## Selected projects
 
 ### [Tiny Avatar Diffusion](https://github.com/BartoloMorgigno11/tiny-avatar-diffusion)
+
+[Checkpoint integrity, CPU loading and public interface checks](https://github.com/BartoloMorgigno11/tiny-avatar-diffusion/actions/workflows/public-release.yml)
 
 <a href="https://github.com/BartoloMorgigno11/tiny-avatar-diffusion"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/tiny-avatar-diffusion/master/docs/images/streamlit-conditional-demo.png" alt="Local Streamlit demonstration of conditional avatar generation" width="400" /></a>
 
@@ -32,6 +34,8 @@ A Deep Learning course project implementing pixel-space diffusion models from sc
 
 ### [C-to-JavaScript Transpiler](https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler)
 
+[Compiler regression tests](https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler/actions/workflows/ci.yml)
+
 <a href="https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/C-to-JavaScript-Transpiler/main/docs/images/web-transpiler-demo.png" alt="Local transpiler interface displaying generated JavaScript and an AST" width="400" /></a>
 
 **Software Engineering · Compilers · Flex/Bison · C · Python**
@@ -40,6 +44,8 @@ An experimental compiler pipeline translating a documented subset of C into Java
 
 ### [Olive Ripeness Detection](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8)
 
+[Backend tests and frontend build](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/actions/workflows/ci.yml)
+
 <a href="https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/main/docs/images/upload-screen.png" alt="React interface for uploading olive images" width="400" /></a>
 
 **Computer Vision · YOLOv8 · Flask · React**
@@ -47,6 +53,8 @@ An experimental compiler pipeline translating a documented subset of C into Java
 A local full-stack prototype for olive detection and image-based analysis, with a React interface, Flask API, and automated checks around the application workflow. Real inference requires model weights not distributed in the repository; area and ripeness outputs are experimental proxies, not calibrated agricultural measurements.
 
 ### [NLP Sentiment Analysis — Winning Hackathon Team](https://github.com/BartoloMorgigno11/1st-Place-AI-Hackathon---NLP-Sentiment-Analysis)
+
+[Synthetic pipeline verification](https://github.com/BartoloMorgigno11/1st-Place-AI-Hackathon---NLP-Sentiment-Analysis/actions/workflows/portfolio-ci.yml)
 
 **Natural Language Processing · TF-IDF · Logistic Regression**
 
@@ -64,7 +72,7 @@ Sentiment-analysis solution developed as part of the team that won the **2024 Ra
 
 Selected co-authored scientific works:
 
-- **Enhancing Agrifood Sustainability Through Immersive Technologies and Intelligent Systems** — DMSVIVA (2025). DOI: `10.18293/DMSVIVA2025-079`
+- **[Enhancing Agrifood Sustainability Through Immersive Technologies and Intelligent Systems](https://ksiresearch.org/seke/dmsviva25paper/paper079.pdf)** — DMSVIVA (2025). DOI: `10.18293/DMSVIVA2025-079`
 - **[IoT-Driven Metaverse for Sustainable Agri-Food: Real-Time Digital Twin Monitoring and Surplus Management](https://doi.org/10.23919/SpliTech70133.2026.11685491)** — SpliTech (2026).
 - **[Bridging High-Frequency IoT Telemetry and Blockchain Constraints via Off-Chain Aggregation](https://doi.org/10.23919/SpliTech70133.2026.11685495)** — SpliTech (2026).
 - **TRAFILCOOP – Dalla frammentazione alla governance dei dati e tracciabilità end-to-end nelle filiere agroalimentari pugliesi mediante dataspace federato** — Firenze University Press, book chapter (2026). DOI: `10.36253/979-12-215-1183-3.30`
