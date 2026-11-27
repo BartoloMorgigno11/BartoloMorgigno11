@@ -30,7 +30,7 @@ My interests lie at the intersection of software engineering, applied AI and res
 
 **Deep Learning · DDPM · PyTorch · Streamlit**
 
-A Deep Learning course project implementing pixel-space diffusion models from scratch for avatar generation, including constrained text conditioning. The public release contains four inference checkpoints, CPU-loading and integrity checks, experimental notebooks, and a Streamlit demonstration. Evaluation protocols and limitations are documented in the repository.
+An individual Deep Learning course project implementing pixel-space diffusion models from scratch for avatar generation, including constrained text conditioning. The public release contains four inference checkpoints, CPU-loading and integrity checks, experimental notebooks, and a Streamlit demonstration. Evaluation protocols and limitations are documented in the repository.
 
 ### [C-to-JavaScript Transpiler](https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler)
 
@@ -40,7 +40,7 @@ A Deep Learning course project implementing pixel-space diffusion models from sc
 
 **Software Engineering · Compilers · Flex/Bison · C · Python**
 
-An experimental compiler pipeline translating a documented subset of C into JavaScript. It combines lexical analysis and parsing, AST and semantic checks, Python code generation, a local Flask interface, and regression tests for accepted and rejected programs.
+A collaborative project with Vito Marzocca implementing an experimental compiler pipeline translating a documented subset of C into JavaScript. It combines lexical analysis and parsing, AST and semantic checks, Python code generation, a local Flask interface, and regression tests for accepted and rejected programs.
 
 ### [Olive Ripeness Detection](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8)
 
@@ -50,7 +50,7 @@ An experimental compiler pipeline translating a documented subset of C into Java
 
 **Computer Vision · YOLOv8 · Flask · React**
 
-A local full-stack prototype for olive detection and image-based analysis, with a React interface, Flask API, and automated checks around the application workflow. Real inference requires model weights not distributed in the repository; area and ripeness outputs are experimental proxies, not calibrated agricultural measurements.
+An individual full-stack prototype for olive detection and image-based analysis, with a React interface, Flask API, and automated checks around the application workflow. Real inference requires model weights not distributed in the repository; area and ripeness outputs are experimental proxies, not calibrated agricultural measurements.
 
 ### [NLP Sentiment Analysis — Winning Hackathon Team](https://github.com/BartoloMorgigno11/1st-Place-AI-Hackathon---NLP-Sentiment-Analysis)
 
@@ -58,7 +58,7 @@ A local full-stack prototype for olive detection and image-based analysis, with 
 
 **Natural Language Processing · TF-IDF · Logistic Regression**
 
-Sentiment-analysis solution developed as part of the team that won the **2024 Randstad & MKERS AI Hackathon** at Politecnico di Bari. The [public announcement shared on LinkedIn](https://it.linkedin.com/posts/bartolo-morgigno_grazie-mille-per-la-bellissima-esperienza-activity-7262877376995328000-8j8m) supports the team result. The repository provides reproducible pipeline checks on synthetic data; no historical contest accuracy is claimed.
+Sentiment-analysis solution developed with Erica Porcelli, Vito Marzocca and Gabriele Colapinto as part of the team that won the **2024 Randstad & MKERS AI Hackathon** at Politecnico di Bari. The [public announcement shared on LinkedIn](https://it.linkedin.com/posts/bartolo-morgigno_grazie-mille-per-la-bellissima-esperienza-activity-7262877376995328000-8j8m) supports the team result. The repository provides reproducible pipeline checks on synthetic data; no historical contest accuracy is claimed.
 
 ## Research experience
 
@@ -79,8 +79,8 @@ Selected co-authored scientific works:
 
 ## Additional public projects
 
-- [Retinal Fundus Segmentation](https://github.com/BartoloMorgigno11/Retinal-segmentation) — MATLAB research pipeline with synthetic-image smoke tests; no clinical validation is claimed.
-- [Beard Alert](https://github.com/BartoloMorgigno11/BEARD-ALERT) — Webcam-based detection prototype with offline-tested alert logic; real-camera performance is not established by those tests.
+- [Retinal Fundus Segmentation](https://github.com/BartoloMorgigno11/Retinal-segmentation) — Collaborative MATLAB research project with Erica Porcelli, including synthetic-image smoke tests; no clinical validation is claimed.
+- [Beard Alert](https://github.com/BartoloMorgigno11/BEARD-ALERT) — Individual webcam-based detection prototype with offline-tested alert logic; real-camera performance is not established by those tests.
 
 ## Academic profiles
 
