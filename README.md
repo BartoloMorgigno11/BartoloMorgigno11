@@ -68,17 +68,17 @@ An experimental C-subset transpiler with a Flex/Bison front end, semantic checks
 
 Selected scientific publications:
 
-- [Enhancing Agrifood Sustainability Through Immersive Technologies and Intelligent Systems](https://doi.org/10.18293/DMSVIVA2025-079) (2025)
+- Enhancing Agrifood Sustainability Through Immersive Technologies and Intelligent Systems (DOI: 10.18293/DMSVIVA2025-079) (2025)
 - [IoT-Driven Metaverse for Sustainable Agri-Food: Real-Time Digital Twin Monitoring and Surplus Management](https://doi.org/10.23919/SpliTech70133.2026.11685491) (2026)
 - [Bridging High-Frequency IoT Telemetry and Blockchain Constraints via Off-Chain Aggregation](https://doi.org/10.23919/SpliTech70133.2026.11685495) (2026)
-- [TRAFILCOOP – Dalla frammentazione alla governance dei dati e tracciabilità end-to-end nelle filiere agroalimentari pugliesi mediante dataspace federato](https://doi.org/10.36253/979-12-215-1183-3.30) (2026, book chapter)
+- TRAFILCOOP – Dalla frammentazione alla governance dei dati e tracciabilità end-to-end nelle filiere agroalimentari pugliesi mediante dataspace federato (DOI: 10.36253/979-12-215-1183-3.30) (2026, book chapter)
 
 ## Documented research contributions
 
 - **B.O.S.S. — coordinated and continuous research collaboration (2026).** Assignment no. 3 under contract no. 157/2026, awarded by Politecnico di Bari through D.D.D. 461/2026 of 1 October 2026 (six-month term), with Prof. Marina Mongiello as scientific lead. Contracted scope: implementation and testing of semantic-segmentation and depth-estimation models for real-time obstacle identification in dynamic environments.
 - **IDENTITÀ — occasional independent research assignment (2026).** Assignment no. 4 under contract no. 29/2026, awarded by Politecnico di Bari through D.D. 33/2026 of 3 February 2026 (one-month term), with Prof. Tommaso Di Noia as scientific lead. Contracted scope: evaluation and preprocessing of health-related data.
-- **[EcoFoodChain — post-lauream research scholarship](https://web.poliba.it/sites/default/files/6_approv._atti_d.r._n._291_del_24.2.2025.pdf) (2025).** Recipient of scholarship no. 3 under the scientific supervision of Prof. Marina Mongiello. The eight-month scholarship focused on designing and developing a digital platform for sustainable management and redistribution of agri-food surplus; see the related [co-authored paper](https://doi.org/10.18293/DMSVIVA2025-079).
-- **[TRAFILCOOP — scientific publication](https://doi.org/10.36253/979-12-215-1183-3.30) (2026).** Co-author of an Open Access book chapter on data governance and traceability in federated agri-food data spaces. Co-authorship is not presented as a formal appointment or ownership of the research project.
+- **EcoFoodChain — post-lauream research scholarship (2025).** Recipient of scholarship no. 3 under the scientific supervision of Prof. Marina Mongiello. The eight-month scholarship focused on designing and developing a digital platform for sustainable management and redistribution of agri-food surplus; see the related co-authored paper (DOI: 10.18293/DMSVIVA2025-079).
+- **TRAFILCOOP — scientific publication (2026).** Co-author of an Open Access book chapter on data governance and traceability in federated agri-food data spaces. Co-authorship is not presented as a formal appointment or ownership of the research project.
 
 *Research appointments are described according to their contractual scope, not as claims of completed or independently validated deliverables. Signed contracts and internal research reports are not published in this repository.*
 
