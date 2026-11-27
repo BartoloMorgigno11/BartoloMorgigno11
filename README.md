@@ -10,13 +10,11 @@
 
 *From models to reliable, testable systems.*
 
-[Featured work](#featured-work) · [Research](#research-and-applied-engineering) · [Publications](#publications) · [Academic profiles](#academic-profiles) · [LinkedIn](https://www.linkedin.com/in/bartolo-morgigno/)
+[Featured work](#featured-work) · [Research](#documented-research-contributions) · [Publications](#publications) · [Academic profiles](#academic-profiles) · [LinkedIn](https://www.linkedin.com/in/bartolo-morgigno/)
 
 </div>
 
-I build and evaluate intelligent software systems, from scratch-trained diffusion models and computer-vision applications to a C-to-JavaScript transpiler. Alongside software development, I contribute to collaborative research on data governance and agri-food traceability. My focus is on reproducible experiments, testable implementations, and transparent evaluation limits.
-
-**Education.** BSc in Computer Engineering and Automation, *110/110 cum laude*, and current MSc student in Computer Engineering, Data Science & AI curriculum — both at Politecnico di Bari.
+I build and evaluate intelligent software systems, from scratch-trained diffusion models and computer-vision applications to a C-to-JavaScript transpiler. My co-authored publications include research on sustainable agri-food systems, IoT, and data traceability. My focus is on reproducible experiments, testable implementations, and transparent evaluation limits.
 
 ## Academic profiles
 
@@ -44,7 +42,7 @@ A full-stack olive-fruit detection prototype built around a fine-tuned YOLOv8 de
 
 **NLP · TF-IDF · Logistic regression · Evaluation**
 
-First-place hackathon sentiment-analysis solution using TF-IDF and class-balanced logistic regression. The public repository includes synthetic-data CI checks; original competition reviews are not redistributed.
+Sentiment-analysis solution developed for the Randstad & MKERS hackathon, using TF-IDF and class-balanced logistic regression. The winning team is documented in the [organiser's public announcement and participant post](https://it.linkedin.com/posts/bartolo-morgigno_grazie-mille-per-la-bellissima-esperienza-activity-7262877376995328000-8j8m). The public repository includes synthetic-data CI checks; original competition reviews are not redistributed.
 
 ### [C to JavaScript Transpiler](https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler)
 
@@ -73,12 +71,10 @@ Selected scientific publications:
 - [Bridging High-Frequency IoT Telemetry and Blockchain Constraints via Off-Chain Aggregation](https://doi.org/10.23919/SpliTech70133.2026.11685495) (2026)
 - [TRAFILCOOP – Dalla frammentazione alla governance dei dati e tracciabilità end-to-end nelle filiere agroalimentari pugliesi mediante dataspace federato](https://doi.org/10.36253/979-12-215-1183-3.30) (2026, book chapter)
 
-## Research and applied engineering
+## Documented research contributions
 
-- **B.O.S.S. — research collaboration, Politecnico di Bari (2026–2027).** Ongoing work on semantic segmentation, depth estimation, and real-time obstacle detection for assistive systems. Experimental results are not reported until they have been validated.
-- **EcoFoodChain / ReFood — post-graduation research fellowship, Politecnico di Bari (2025).** End-to-end software development spanning application architecture, REST APIs, PostgreSQL data services, and Docker-based containerisation.
-- **[TRAFILCOOP](https://dei.poliba.it/it/ricerca/attivita-e-progetti/progetti-di-ricerca) — collaborative research, Politecnico di Bari (2024–2025).** Research on federated data spaces, data governance, and end-to-end traceability in cooperative agri-food supply chains. Co-author of the [Open Access book chapter](https://doi.org/10.36253/979-12-215-1183-3.30) published by Firenze University Press in 2026.
-- **IDENTITÀ (2026).** Assessment and preprocessing of healthcare data within a scoped project assignment.
+- **[EcoFoodChain](https://doi.org/10.18293/DMSVIVA2025-079) — published collaborative research (2025).** Co-author of a conference paper on immersive technologies and intelligent systems for agri-food sustainability. The published paper documents the research scope, without asserting ownership of the complete platform or individual implementation tasks.
+- **[TRAFILCOOP — scientific publication](https://doi.org/10.36253/979-12-215-1183-3.30) (2026).** Co-author of an Open Access book chapter about data governance and traceability in federated agri-food data spaces; this authorship does not imply project ownership or a documented formal appointment.
 
 ## Research and engineering interests
 
@@ -90,9 +86,9 @@ Selected scientific publications:
 
 ## Recognition
 
-- Winner, **Randstad & MKERS AI Hackathon** (2024) — the NLP sentiment-analysis project above.
-- Recipient of the regional **[#studioinpugliaperché award](https://studioinpugliaperche.regione.puglia.it/graduatoria)**.
+- Member of the **[winning team of the Randstad & MKERS AI Hackathon](https://it.linkedin.com/posts/bartolo-morgigno_grazie-mille-per-la-bellissima-esperienza-activity-7262877376995328000-8j8m)** (2024).
+- **[#studioinpugliaperché award](https://studioinpugliaperche.regione.puglia.it/graduatoria)** — listed as **VINCITORE**, 90th place, in the official Regione Puglia fifth-edition ranking (search the page for “Bartolo Morgigno”).
 
 ---
 
-I value transparent evaluation, explicit limits, and documentation that helps other developers understand, reproduce, and critically assess the work. Some research activities are intentionally represented only at a high level when source code, data, or results are not public.
+I value transparent evaluation, explicit limits, and documentation that helps other developers understand, reproduce, and critically assess the work. For a statement-by-statement source map and verification boundaries, see [Public evidence and claim boundaries](VERIFICATION.md). Activities without a directly supporting public record are omitted.
