@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="BM research and software engineering identity graphic" width="100%" />
+  <img src="assets/github-banner.jpg" alt="Curious by nature, engineer by choice. Illustrated workspace in warm cream, green and brown." width="100%" />
 </p>
 
 <div align="center">
