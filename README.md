@@ -77,6 +77,7 @@ Selected scientific publications:
 
 - **B.O.S.S. — research collaboration, Politecnico di Bari (2026–2027).** Ongoing work on semantic segmentation, depth estimation, and real-time obstacle detection for assistive systems. Experimental results are not reported until they have been validated.
 - **EcoFoodChain / ReFood — post-graduation research fellowship, Politecnico di Bari (2025).** End-to-end software development spanning application architecture, REST APIs, PostgreSQL data services, and Docker-based containerisation.
+- **[TRAFILCOOP](https://dei.poliba.it/it/ricerca/attivita-e-progetti/progetti-di-ricerca) — collaborative research, Politecnico di Bari (2024–2025).** Research on federated data spaces, data governance, and end-to-end traceability in cooperative agri-food supply chains. Co-author of the [Open Access book chapter](https://doi.org/10.36253/979-12-215-1183-3.30) published by Firenze University Press in 2026.
 - **IDENTITÀ (2026).** Assessment and preprocessing of healthcare data within a scoped project assignment.
 
 ## Research and engineering interests
