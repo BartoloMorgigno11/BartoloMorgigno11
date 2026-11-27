@@ -71,6 +71,7 @@ Selected scientific publications:
 - [Enhancing Agrifood Sustainability Through Immersive Technologies and Intelligent Systems](https://doi.org/10.18293/DMSVIVA2025-079) (2025)
 - [IoT-Driven Metaverse for Sustainable Agri-Food: Real-Time Digital Twin Monitoring and Surplus Management](https://doi.org/10.23919/SpliTech70133.2026.11685491) (2026)
 - [Bridging High-Frequency IoT Telemetry and Blockchain Constraints via Off-Chain Aggregation](https://doi.org/10.23919/SpliTech70133.2026.11685495) (2026)
+- [TRAFILCOOP – Dalla frammentazione alla governance dei dati e tracciabilità end-to-end nelle filiere agroalimentari pugliesi mediante dataspace federato](https://doi.org/10.36253/979-12-215-1183-3.30) (2026, book chapter)
 
 ## Research and applied engineering
 
