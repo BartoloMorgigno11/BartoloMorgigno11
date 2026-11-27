@@ -16,6 +16,8 @@
 
 I build and evaluate intelligent software systems, from scratch-trained diffusion models and computer-vision applications to a C-to-JavaScript transpiler. My co-authored publications include research on sustainable agri-food systems, IoT, and data traceability. My focus is on reproducible experiments, testable implementations, and transparent evaluation limits.
 
+**Education.** BSc in Computer Engineering and Automation, *110/110 cum laude* (23 October 2024), Politecnico di Bari. Currently pursuing an MSc in Computer Engineering (Data Science & AI curriculum). [Education profile on LinkedIn](https://www.linkedin.com/in/bartolo-morgigno/).
+
 ## Academic profiles
 
 [ORCID (0009-0004-2675-5388)](https://orcid.org/0009-0004-2675-5388) · [Scopus Author ID (60962910900)](https://www.scopus.com/authid/detail.uri?authorId=60962910900) · [Google Scholar](https://scholar.google.com/citations?user=8kHpqYAAAAAJ)
@@ -73,8 +75,12 @@ Selected scientific publications:
 
 ## Documented research contributions
 
-- **[EcoFoodChain](https://doi.org/10.18293/DMSVIVA2025-079) — published collaborative research (2025).** Co-author of a conference paper on immersive technologies and intelligent systems for agri-food sustainability. The published paper documents the research scope, without asserting ownership of the complete platform or individual implementation tasks.
-- **[TRAFILCOOP — scientific publication](https://doi.org/10.36253/979-12-215-1183-3.30) (2026).** Co-author of an Open Access book chapter about data governance and traceability in federated agri-food data spaces; this authorship does not imply project ownership or a documented formal appointment.
+- **B.O.S.S. — coordinated and continuous research collaboration (2026).** Appointed to assignment no. 3 under contract no. 157/2026 (six-month term), at Politecnico di Bari, with Prof. Marina Mongiello as scientific lead. Contracted scope: implementation and testing of semantic-segmentation and depth-estimation models for real-time obstacle identification in dynamic environments.
+- **IDENTITÀ — occasional independent research assignment (2026).** Assignment no. 4 under contract no. 29/2026 (one-month term), at Politecnico di Bari, with Prof. Tommaso Di Noia as scientific lead. Contracted scope: evaluation and preprocessing of health-related data.
+- **[EcoFoodChain — post-lauream research scholarship](https://web.poliba.it/sites/default/files/6_approv._atti_d.r._n._291_del_24.2.2025.pdf) (2025).** Recipient of scholarship no. 3 under the scientific supervision of Prof. Marina Mongiello. The eight-month scholarship focused on designing and developing a digital platform for sustainable management and redistribution of agri-food surplus; see the related [co-authored paper](https://doi.org/10.18293/DMSVIVA2025-079).
+- **[TRAFILCOOP — scientific publication](https://doi.org/10.36253/979-12-215-1183-3.30) (2026).** Co-author of an Open Access book chapter on data governance and traceability in federated agri-food data spaces. Co-authorship is not presented as a formal appointment or ownership of the research project.
+
+*Research appointments are described according to their contractual scope, not as claims of completed or independently validated deliverables. Signed contracts and internal research reports are not published in this repository.*
 
 ## Research and engineering interests
 
@@ -87,8 +93,8 @@ Selected scientific publications:
 ## Recognition
 
 - Member of the **[winning team of the Randstad & MKERS AI Hackathon](https://it.linkedin.com/posts/bartolo-morgigno_grazie-mille-per-la-bellissima-esperienza-activity-7262877376995328000-8j8m)** (2024).
-- **[#studioinpugliaperché award](https://studioinpugliaperche.regione.puglia.it/graduatoria)** — listed as **VINCITORE**, 90th place, in the official Regione Puglia fifth-edition ranking (search the page for “Bartolo Morgigno”).
+- **[#studioinpugliaperché award](https://studioinpugliaperche.regione.puglia.it/graduatoria)** — recipient in the official Regione Puglia fifth-edition winners' ranking (search for “Bartolo Morgigno”).
 
 ---
 
-I value transparent evaluation, explicit limits, and documentation that helps other developers understand, reproduce, and critically assess the work. For a statement-by-statement source map and verification boundaries, see [Public evidence and claim boundaries](VERIFICATION.md). Activities without a directly supporting public record are omitted.
+I value transparent evaluation, explicit limits, and documentation that helps other developers understand, reproduce, and critically assess the work. For a statement-by-statement source map and verification boundaries, see [Public evidence and claim boundaries](VERIFICATION.md). Private contracts and non-public research materials are never uploaded here; exact source and verification limits are documented separately.
