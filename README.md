@@ -14,7 +14,7 @@
 
 </div>
 
-I design and develop intelligent software systems, combining applied machine learning, software engineering, and academic research. My work spans computer vision, generative AI, assistive technologies, and data-driven applications, with a focus on reproducibility, explicit limits, and reliable evaluation.
+I build and evaluate intelligent software systems, from scratch-trained diffusion models and computer-vision applications to a C-to-JavaScript transpiler. Alongside software development, I contribute to collaborative research on data governance and agri-food traceability. My focus is on reproducible experiments, testable implementations, and transparent evaluation limits.
 
 **Education.** BSc in Computer Engineering and Automation, *110/110 cum laude*, and current MSc student in Computer Engineering, Data Science & AI curriculum — both at Politecnico di Bari.
 
@@ -30,7 +30,7 @@ I design and develop intelligent software systems, combining applied machine lea
 
 **Generative AI · DDPM · PyTorch · Streamlit**
 
-A compact diffusion project with four authenticated inference checkpoints, frozen experimental evidence, a CPU verification path, and automated checks. The repository documents what the models do and the boundaries of the evaluation.
+A compact diffusion project with four integrity-checked inference checkpoints, frozen experimental evidence, a CPU verification path, and automated checks. The repository documents what the models do and the boundaries of the evaluation.
 
 ### [Olive Ripeness Detection](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8)
 
@@ -44,7 +44,7 @@ A full-stack olive-fruit detection prototype built around a fine-tuned YOLOv8 de
 
 **NLP · TF-IDF · Logistic regression · Evaluation**
 
-Winning sentiment-analysis solution based on a reproducible TF-IDF and class-balanced logistic-regression pipeline for hotel reviews.
+First-place hackathon sentiment-analysis solution using TF-IDF and class-balanced logistic regression. The public repository includes synthetic-data CI checks; original competition reviews are not redistributed.
 
 ### [C to JavaScript Transpiler](https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler)
 
@@ -59,8 +59,8 @@ An experimental C-subset transpiler with a Flex/Bison front end, semantic checks
 
 <br />
 
-- [Retinal Fundus Segmentation](https://github.com/BartoloMorgigno11/Retinal-segmentation) — MATLAB research pipeline for retinal-image segmentation, with explicit research-only boundaries.
-- [Beard Alert](https://github.com/BartoloMorgigno11/BEARD-ALERT) — real-time webcam prototype using MediaPipe landmarks and optional YOLO person detection.
+- [Retinal Fundus Segmentation](https://github.com/BartoloMorgigno11/Retinal-segmentation) — MATLAB research pipeline with synthetic-image CI checks; not clinically validated.
+- [Beard Alert](https://github.com/BartoloMorgigno11/BEARD-ALERT) — Windows webcam prototype with an offline-tested alert policy; real-camera behaviour remains hardware-dependent.
 
 </details>
 
