@@ -14,51 +14,23 @@
 
 </div>
 
-I am a Computer Engineering graduate from **Politecnico di Bari** (110/110 cum laude, 23 October 2024) and an MSc student in **Computer Engineering — Artificial Intelligence and Data Science curriculum**.
+Computer Engineering graduate from **Politecnico di Bari** (110/110 cum laude, 23 October 2024) and MSc student in **Computer Engineering — Artificial Intelligence and Data Science**. My work spans software engineering, applied AI and reproducible research, with research appointments at Politecnico di Bari and co-authored scientific publications.
 
-My interests lie at the intersection of software engineering, applied AI and research software. My portfolio demonstrates compiler construction, full-stack computer vision, diffusion models implemented from scratch, and reproducible machine-learning workflows. I have also held research appointments at Politecnico di Bari and co-authored scientific publications.
-
-**Technologies demonstrated in public repositories:** Python, C, JavaScript, PyTorch, Flask, React, Flex/Bison, MATLAB, automated tests and GitHub Actions.
+**Core technologies demonstrated:** Python, C, JavaScript, PyTorch, Flask, React, Flex/Bison, MATLAB and GitHub Actions.
 
 ## Selected projects
 
-### [Tiny Avatar Diffusion](https://github.com/BartoloMorgigno11/tiny-avatar-diffusion)
+**[Tiny Avatar Diffusion](https://github.com/BartoloMorgigno11/tiny-avatar-diffusion)** — Individual course project  
+Pixel-space DDPMs implemented from scratch in PyTorch, with constrained text conditioning, four inference checkpoints, experimental evaluation and a Streamlit demo. [Release verification](https://github.com/BartoloMorgigno11/tiny-avatar-diffusion/actions/workflows/public-release.yml) · [Generated avatar gallery](https://github.com/BartoloMorgigno11/tiny-avatar-diffusion/blob/master/docs/report/figures/final_four_model_unconditional_gallery.png)
 
-[Checkpoint integrity, CPU loading and public interface checks](https://github.com/BartoloMorgigno11/tiny-avatar-diffusion/actions/workflows/public-release.yml)
+**[C-to-JavaScript Transpiler](https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler)** — Collaborative project with Vito Marzocca  
+Flex/Bison and C compiler front-end with AST and semantic analysis, Python code generation, a local Flask interface and regression tests for a defined C subset. [Compiler regression tests](https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler/actions/workflows/ci.yml)
 
-<a href="https://github.com/BartoloMorgigno11/tiny-avatar-diffusion"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/tiny-avatar-diffusion/master/docs/images/streamlit-conditional-demo.png" alt="Local Streamlit demonstration of conditional avatar generation" width="400" /></a>
+**[Olive Ripeness Detection](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8)** — Individual project  
+Full-stack YOLOv8, Flask and React prototype. Image-based area and ripeness proxies are not calibrated agricultural measurements; inference requires separately obtained weights. [Application CI](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/actions/workflows/ci.yml)
 
-**Deep Learning · DDPM · PyTorch · Streamlit**
-
-An individual Deep Learning course project implementing pixel-space diffusion models from scratch for avatar generation, including constrained text conditioning. The public release contains four inference checkpoints, CPU-loading and integrity checks, experimental notebooks, and a Streamlit demonstration. Evaluation protocols and limitations are documented in the repository.
-
-### [C-to-JavaScript Transpiler](https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler)
-
-[Compiler regression tests](https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler/actions/workflows/ci.yml)
-
-<a href="https://github.com/BartoloMorgigno11/C-to-JavaScript-Transpiler"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/C-to-JavaScript-Transpiler/main/docs/images/web-transpiler-demo.png" alt="Local transpiler interface displaying generated JavaScript and an AST" width="400" /></a>
-
-**Software Engineering · Compilers · Flex/Bison · C · Python**
-
-A collaborative project with Vito Marzocca implementing an experimental compiler pipeline translating a documented subset of C into JavaScript. It combines lexical analysis and parsing, AST and semantic checks, Python code generation, a local Flask interface, and regression tests for accepted and rejected programs.
-
-### [Olive Ripeness Detection](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8)
-
-[Backend tests and frontend build](https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/actions/workflows/ci.yml)
-
-<a href="https://github.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8"><img src="https://raw.githubusercontent.com/BartoloMorgigno11/Olive-detection-using-CNN-models-based-on-fine-tuned-YOLOv8/main/docs/images/upload-screen.png" alt="React interface for uploading olive images" width="400" /></a>
-
-**Computer Vision · YOLOv8 · Flask · React**
-
-An individual full-stack prototype for olive detection and image-based analysis, with a React interface, Flask API, and automated checks around the application workflow. Real inference requires model weights not distributed in the repository; area and ripeness outputs are experimental proxies, not calibrated agricultural measurements.
-
-### [NLP Sentiment Analysis — Winning Hackathon Team](https://github.com/BartoloMorgigno11/1st-Place-AI-Hackathon---NLP-Sentiment-Analysis)
-
-[Synthetic pipeline verification](https://github.com/BartoloMorgigno11/1st-Place-AI-Hackathon---NLP-Sentiment-Analysis/actions/workflows/portfolio-ci.yml)
-
-**Natural Language Processing · TF-IDF · Logistic Regression**
-
-Sentiment-analysis solution developed with Erica Porcelli, Vito Marzocca and Gabriele Colapinto as part of the team that won the **2024 Randstad & MKERS AI Hackathon** at Politecnico di Bari. The [public announcement shared on LinkedIn](https://it.linkedin.com/posts/bartolo-morgigno_grazie-mille-per-la-bellissima-esperienza-activity-7262877376995328000-8j8m) supports the team result. The repository provides reproducible pipeline checks on synthetic data; no historical contest accuracy is claimed.
+**[NLP Sentiment Analysis](https://github.com/BartoloMorgigno11/1st-Place-AI-Hackathon---NLP-Sentiment-Analysis)** — **Winning team, 2024 Randstad & MKERS AI Hackathon**  
+TF-IDF and logistic regression, developed with Erica Porcelli, Vito Marzocca and Gabriele Colapinto. [Team result](https://it.linkedin.com/posts/bartolo-morgigno_grazie-mille-per-la-bellissima-esperienza-activity-7262877376995328000-8j8m) · [Synthetic pipeline checks](https://github.com/BartoloMorgigno11/1st-Place-AI-Hackathon---NLP-Sentiment-Analysis/actions/workflows/portfolio-ci.yml). No historical contest accuracy is claimed.
 
 ## Research experience
 
